@@ -4,7 +4,7 @@ title: KringleCon2021
 permalink: /kringlecon2021/
 ---
 
-This year I decided to try my luck with the SANS Holiday Hack Challenge: the infamous KringleCon.
+This year I decided to try my luck with the SANS Holiday Hack Challenge: the notorious KringleCon.
 It is the first time I try a CTF, so I was a bit wary as to what I would be able to accomplish, but I was pleasantly surprised by the different levels of difficulty provided, so that even beginners could feel involved. Overall, I learned a lot in a very short amount of time, and I am glad I wandered around the Frostiest place of them all.
 Without further ado, here is my write-up. 
 
